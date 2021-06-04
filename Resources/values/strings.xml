@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuoteSaver</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_search">Search</string>
+	<string name="search_hint">Happy</string>
+	<string name="save_button">Save</string>
+	<string name="delete_button">Delete</string>
+	<string name="saved_message">Quote Saved</string>
+	<string name="delete_message">Quote Deleted</string>
+</resources>
